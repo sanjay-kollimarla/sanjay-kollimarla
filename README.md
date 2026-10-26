@@ -4,7 +4,7 @@
 
 I design and build **scalable backend systems, distributed services, and reliable asynchronous processing pipelines** using Node.js, TypeScript, Redis, and MongoDB.
 
-My engineering interests include distributed systems, system design, database performance, concurrency, caching, and building production-grade software that remains reliable under load.
+My engineering focus includes distributed systems, system design, database performance, concurrency, caching, and building production-grade software that remains reliable under load.
 
 - 🌐 **Portfolio:** [sanjay-kollimarla.vercel.app](https://sanjay-kollimarla.vercel.app/)
 - 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
