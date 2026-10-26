@@ -66,7 +66,7 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 <div align="center">
 
-<a href="https://github.com/sanjay-kollimarla"><img src="https://skillicons.dev/icons?i=ts,js,java,python,nodejs,express,react,nextjs,angular,tailwind,mongodb,mysql,redis,aws,docker,kubernetes,git,github,linux&theme=dark&perline=10" alt="Technology icons"/></a>
+<a href="https://github.com/sanjay-kollimarla"><img src="https://skillicons.dev/icons?i=ts,js,java,python,nodejs,bun,express,react,nextjs,angular,tailwind,mongodb,mysql,redis,aws,docker,kubernetes,git,github,linux&theme=dark&perline=10" alt="Technology icons"/></a>
 
 </div>
 
