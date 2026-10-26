@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=240&color=0:070B17,30:10243E,65:312E81,100:701A75&text=SANJAY%20KOLLIMARLA&fontSize=40&fontColor=67E8F9&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%2F%2F%20DISTRIBUTED%20SYSTEMS&descSize=14&descColor=E9D5FF&descAlignY=58&animation=fadeIn" width="100%" alt="Sanjay Kollimarla — Backend Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;Engineering+Distributed+Processing+Pipelines;Designing+for+Scale%2C+Failure+%26+Performance" alt="Animated engineering tagline"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;Engineering+Distributed+Processing+Pipelines;Designing+for+Scale%2C+Failure+%26+Performance" alt="Animated engineering tagline"/> -->
 
 </div>
 <br/>
