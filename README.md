@@ -98,7 +98,7 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 <div align="center">
 
-<a href="https://github.com/sanjay-kollimarla"><img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&rank_icon=github&include_all_commits=true&border_radius=20" height="175" alt="GitHub statistics"/></a>
+<a href="https://github.com/sanjay-kollimarla"><img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&rank_icon=github&border_radius=20" height="175" alt="GitHub statistics"/></a>
 <a href="https://github.com/sanjay-kollimarla"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kollimarla&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_radius=20" height="175" alt="Top languages"/></a>
 
 <a href="https://github.com/sanjay-kollimarla"><img src="https://streak-stats.demolab.com?user=sanjay-kollimarla&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=3FB950&border_radius=20" width="85%" alt="Contribution streak"/></a>
