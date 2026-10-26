@@ -178,7 +178,7 @@ The central design challenge is ensuring that transient failures, worker restart
 
 <div align="center">
 
-<a href="YOUR_EMAIL_QUEUE_REPO_URL">
+<a href="https://github.com/sanjay-kollimarla/email-queue-system">
 <img src="https://img.shields.io/badge/INSPECT_SOURCE-67E8F9?style=for-the-badge&logo=github&logoColor=070B17" alt="Inspect email queue source"/>
 </a>
 
