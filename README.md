@@ -22,7 +22,7 @@
 <a href="https://sanjay-kollimarla.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://linkedin.com/in/kollimarla-sai-sanjay)">
 <img src="https://img.shields.io/badge/LINKEDIN-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sanjay-kollimarla?tab=repositories">
