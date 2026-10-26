@@ -1,300 +1,371 @@
+
 <!--
-  SANJAY KOLLIMARLA — ENGINEERING PROFILE
-  Theme: Midnight / Cyan / Violet
-  Replace the LinkedIn and project URL placeholders before publishing.
+  SANJAY KOLLIMARLA | FUTURISTIC ENGINEERING PROFILE
+  Theme: Midnight glass / Electric cyan / Neon violet / Magenta
 -->
 
 <div align="center">
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:164E63,100:7C3AED&text=SANJAY%20KOLLIMARLA&fontSize=38&fontColor=67E8F9&fontAlignY=40&animation=fadeIn" width="100%" alt="Sanjay Kollimarla"/>
-</p>
-
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Designing+Reliable+Backend+Systems;Engineering+Distributed+Processing+Pipelines;Node.js+%7C+TypeScript+%7C+Redis+%7C+MongoDB;Turning+Complex+Problems+Into+Maintainable+Systems" alt="Animated engineering tagline"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070B17,25:10243E,60:312E81,100:701A75&text=SANJAY%20KOLLIMARLA&fontSize=40&fontColor=67E8F9&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%2F%20BACKEND%20%26%20DISTRIBUTED%20SYSTEMS&descSize=14&descColor=E9D5FF&descAlignY=58&animation=fadeIn" width="100%" alt="Sanjay Kollimarla — Backend Software Engineer"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;Engineering+Distributed+Processing+Pipelines;Node.js+%7C+TypeScript+%7C+Redis+%7C+MongoDB;Designing+for+Scale%2C+Failure+%26+Performance;Turning+Complexity+Into+Maintainable+Systems" alt="Animated engineering tagline"/>
+
+<br/><br/>
+
 <a href="https://sanjay-kollimarla.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sanjay-kollimarla?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-Explore-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DISTRIBUTED%20SYSTEMS-10243E?style=flat-square&labelColor=070B17" alt="Distributed systems"/>
+<img src="https://img.shields.io/badge/CRAFT-BACKEND%20ENGINEERING-312E81?style=flat-square&labelColor=070B17" alt="Backend engineering"/>
+<img src="https://img.shields.io/badge/MINDSET-RELIABILITY%20%26%20SCALE-701A75?style=flat-square&labelColor=070B17" alt="Reliability and scale"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
+
+## `01` — ENGINEERING IDENTITY
+
+### Engineering beyond the happy path.
+
+*Scalable architecture. Predictable failure recovery. Measurable performance.*
+
+</div>
 
 I'm **Sanjay Kollimarla**, a software engineer with 3+ years of experience building web applications and backend services.
 
-My current engineering focus is on the intersection of **backend architecture, distributed systems, asynchronous processing, and performance engineering**.
+My engineering focus is on designing maintainable backend systems, asynchronous processing pipelines, and distributed services. I enjoy investigating what happens beyond a successful API response: how concurrent operations remain correct, how queues recover from failure, how caching affects consistency, and how systems behave under load.
 
-I enjoy understanding what happens beyond a successful API response: how work moves through queues, how concurrent operations remain correct, how caching changes system behavior, how failures propagate, and how software can recover predictably.
-
-I approach engineering with a simple principle:
-
-> Build systems that remain understandable, measurable, and reliable as complexity grows.
+I believe strong engineering is about more than making software work. It's about understanding **why it works, when it fails, and how it recovers**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Engineering Focus
+### ◈ SYSTEMS THINKING
 
-- Distributed backend services
-- Reliable asynchronous processing
-- API design and authorization
-- Database performance and caching
-- Concurrency and failure recovery
-- System design and scalability
+- Distributed service architecture
+- Asynchronous processing
+- Concurrency and consistency
+- Fault isolation and recovery
+- API contracts and authorization
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Current Technology Stack
+### ◈ PERFORMANCE THINKING
 
-- **Runtime:** Node.js, Bun
-- **Language:** TypeScript, JavaScript
-- **Frameworks:** Express.js, Hono
-- **Data:** MongoDB, Redis, MySQL
-- **Infrastructure:** AWS, Docker, Kubernetes
-- **Processing:** BullMQ, Redis-backed workers
+- Database indexing and query tuning
+- Caching strategies
+- Throughput and latency analysis
+- Resource-efficient processing
+- Reproducible benchmarking
 
 </td>
 </tr>
 </table>
 
 ---
-
-## `01 / ENGINEERING CAPABILITIES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Backend Architecture
-
-Designing modular services, REST APIs, middleware, authorization boundaries, and maintainable application layers.
-
-### ◈ Distributed Processing
-
-Exploring queues, worker concurrency, retries, backoff, idempotency, dead-letter handling, and controlled job execution.
-
-### ◈ Data & Performance
-
-Using indexing, query optimization, caching, aggregation pipelines, and workload-driven performance analysis.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Reliability Engineering
-
-Thinking through partial failures, duplicate delivery, timeout handling, recovery strategies, and operational visibility.
-
-### ◈ Real-Time Systems
-
-Building event-driven workflows with WebSockets, Server-Sent Events, and webhooks.
-
-### ◈ Cloud & Delivery
-
-Working with containerized applications, object storage, CI/CD workflows, and cloud deployment concepts.
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 / SELECTED ENGINEERING PROJECTS`
-
-### `01` — Distributed Email Queue Platform
-
-**Reliable asynchronous processing | BullMQ + Redis**
-
-A distributed job-processing platform designed around controlled execution, failure recovery, and worker scalability.
-
-**Core engineering areas**
-
-- Retry policies with exponential backoff
-- Dead-letter queues and failed-job inspection
-- Idempotent processing and duplicate-execution protection
-- Worker concurrency and priority-based processing
-- Rate limiting and controlled job throughput
-- Job lifecycle tracking through SSE and webhooks
-- Docker-based local development and integration testing
-
-**Architecture to document**
-
-`API → Queue → Redis → Workers → Processing → Status Events`
-
-The key design challenge is not simply putting work in a queue. It is defining what happens when jobs fail, workers restart, requests are duplicated, or downstream services become unavailable.
-
-**Stack:** `Node.js` `TypeScript` `BullMQ` `Redis` `Docker`
-
-[**↗ VIEW SOURCE CODE**](YOUR_EMAIL_QUEUE_REPO_URL)
-
----
-
-### `02` — Distributed Rate Limiting Service
-
-**Coordinated request control | Redis + Lua**
-
-A reusable rate-limiting service designed to enforce request policies across multiple application instances using shared state.
-
-**Core engineering areas**
-
-- Token Bucket and Sliding Window algorithms
-- Atomic Redis operations and Lua scripts
-- Per-client limits and configurable policies
-- Express middleware integration
-- Boundary conditions and concurrent request handling
-- Expiration, cleanup, and failure behavior
-- Reproducible throughput and latency benchmarks
-
-**Architecture to document**
-
-`Client → Middleware → Policy Evaluation → Redis Atomic Operation → Allow / Reject`
-
-The central engineering question is how to enforce consistent rate limits when multiple application instances process requests simultaneously.
-
-**Stack:** `Node.js` `TypeScript` `Redis` `Lua` `Express`
-
-[**↗ VIEW SOURCE CODE**](YOUR_RATE_LIMITER_REPO_URL)
-
----
-
-### `03` — Distributed URL Shortening Service
-
-**Low-latency redirects | MongoDB + Redis**
-
-A URL-shortening backend exploring efficient identifier generation, redirect handling, cache behavior, and asynchronous analytics.
-
-**Core engineering areas**
-
-- Short-code generation and collision handling
-- URL persistence and expiration policies
-- Redis caching for redirect lookups
-- Cache consistency and invalidation
-- Asynchronous click analytics
-- Duplicate detection and link lifecycle management
-- Performance measurement under representative workloads
-
-**Architecture to document**
-
-`Create Link → Generate Code → Persist → Cache → Redirect → Analytics`
-
-The design focuses on separating the latency-sensitive redirect path from secondary analytics work while considering cache misses, expired links, and storage failures.
-
-**Stack:** `Node.js` `TypeScript` `MongoDB` `Redis` `Docker` `AWS`
-
-[**↗ VIEW SOURCE CODE**](YOUR_URL_SHORTENER_REPO_URL)
-
----
-
-## `03 / TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### Languages
+## `02` — THE TECHNOLOGY MATRIX
+
+*Tools are implementation details. Engineering fundamentals are the foundation.*
+
+</div>
+
+<div align="center">
+
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python&theme=dark" alt="TypeScript JavaScript Java Python"/>
 
-### Backend & Frameworks
+### BACKEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,bun&theme=dark" alt="Node.js Express Bun"/>
 
-### Data & Messaging
+### DATA & CACHING
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="MongoDB MySQL Redis"/>
 
-### Cloud, Containers & Tooling
+### CLOUD & INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&theme=dark" alt="AWS Docker Kubernetes Git GitHub Linux"/>
 
 </div>
 
-**Additional concepts:** REST APIs · WebSockets · SSE · Webhooks · BullMQ · Lua scripting · RBAC · Multi-tenancy · Database indexing · Aggregation pipelines · Caching · CI/CD · Data Structures & Algorithms · System Design
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**BACKEND**
+
+Node.js · Express.js · Hono · Bun · REST APIs · WebSockets · SSE · Webhooks
+
+</td>
+<td width="33%" valign="top">
+
+**DATA SYSTEMS**
+
+MongoDB · MySQL · Redis · Indexing · Aggregation · Caching · Data Modeling
+
+</td>
+<td width="33%" valign="top">
+
+**ENGINEERING**
+
+BullMQ · Lua · Docker · AWS · Kubernetes · CI/CD · System Design · DSA
+
+</td>
+</tr>
+</table>
 
 ---
-
-## `04 / ENGINEERING PRINCIPLES`
-
-| Principle | How I approach it |
-|---|---|
-| Correctness before optimization | Establish invariants and expected behavior before tuning performance. |
-| Explicit failure handling | Define retry limits, timeouts, recovery behavior, and failure boundaries. |
-| Concurrency awareness | Understand shared state, atomic operations, duplicate execution, and race conditions. |
-| Measure before claiming | Use reproducible benchmarks and clearly document workload assumptions. |
-| Design for maintainability | Separate responsibilities and make dependencies and contracts explicit. |
-| Operational visibility | Use structured logs, metrics, traces, and meaningful error context where appropriate. |
-
----
-
-## `05 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=080D1A&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
+## `03` — FEATURED ENGINEERING PROJECTS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kollimarla&layout=compact&hide_border=true&bg_color=080D1A&title_color=67E8F9&text_color=C9D1D9" height="165" alt="Most-used languages"/>
+*Three systems. Three different engineering challenges.*
 
-<img src="https://streak-stats.demolab.com?user=sanjay-kollimarla&hide_border=true&background=080D1A&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="GitHub contribution streak"/>
+</div>
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>01 / DISTRIBUTED EMAIL QUEUE PLATFORM</h3>
+
+<img src="https://img.shields.io/badge/BULLMQ-7C3AED?style=flat-square" alt="BullMQ"/>
+<img src="https://img.shields.io/badge/REDIS-DC2626?style=flat-square" alt="Redis"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=flat-square" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/DOCKER-0891B2?style=flat-square" alt="Docker"/>
+
+A distributed job-processing platform focused on reliable asynchronous execution, controlled concurrency, and failure recovery.
+
+**ENGINEERING CHALLENGES**
+
+- Retry policies with exponential backoff
+- Dead-letter handling and failed-job inspection
+- Idempotency and duplicate-execution protection
+- Worker concurrency and priority queues
+- Rate limiting and controlled throughput
+- Real-time job status via SSE and webhooks
+
+**SYSTEM FLOW**
+
+`API → Queue → Redis → Workers → Processing → Status Events`
+
+The central design challenge is ensuring that transient failures, worker restarts, duplicate requests, and downstream service errors are handled deliberately rather than left to chance.
+
+<div align="center">
+
+<a href="YOUR_EMAIL_QUEUE_REPO_URL">
+<img src="https://img.shields.io/badge/INSPECT_SOURCE-67E8F9?style=for-the-badge&logo=github&logoColor=070B17" alt="Inspect email queue source"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>02 / DISTRIBUTED RATE LIMITING SERVICE</h3>
+
+<img src="https://img.shields.io/badge/REDIS-DC2626?style=flat-square" alt="Redis"/>
+<img src="https://img.shields.io/badge/LUA-0891B2?style=flat-square" alt="Lua"/>
+<img src="https://img.shields.io/badge/NODE.JS-15803D?style=flat-square" alt="Node.js"/>
+<img src="https://img.shields.io/badge/EXPRESS-64748B?style=flat-square" alt="Express"/>
+
+A centralized rate-limiting service designed to enforce request policies consistently across multiple application instances.
+
+**ENGINEERING CHALLENGES**
+
+- Token Bucket and Sliding Window algorithms
+- Atomic Redis operations using Lua scripts
+- Per-client limits and configurable policies
+- Concurrent request handling
+- Expiration and state cleanup
+- Performance testing and boundary-condition validation
+
+**SYSTEM FLOW**
+
+`Client → Middleware → Policy Evaluation → Atomic Redis Operation → Allow / Reject`
+
+The key design problem is preventing concurrent requests from bypassing limits while keeping request processing efficient.
+
+<div align="center">
+
+<a href="YOUR_RATE_LIMITER_REPO_URL">
+<img src="https://img.shields.io/badge/INSPECT_SOURCE-A78BFA?style=for-the-badge&logo=github&logoColor=070B17" alt="Inspect rate limiter source"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>03 / DISTRIBUTED URL SHORTENING SERVICE</h3>
+
+<img src="https://img.shields.io/badge/MONGODB-15803D?style=flat-square" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/REDIS-DC2626?style=flat-square" alt="Redis"/>
+<img src="https://img.shields.io/badge/AWS-CA8A04?style=flat-square" alt="AWS"/>
+<img src="https://img.shields.io/badge/DOCKER-0891B2?style=flat-square" alt="Docker"/>
+
+A URL-shortening backend focused on efficient redirects, cache behavior, identifier generation, and asynchronous analytics.
+
+**ENGINEERING CHALLENGES**
+
+- Short-code generation and collision handling
+- Persistent storage and expiration policies
+- Redis caching for redirect lookups
+- Cache invalidation and cache-miss behavior
+- Asynchronous click analytics
+- Duplicate detection and link lifecycle management
+
+**SYSTEM FLOW**
+
+`Create Link → Generate Code → Persist → Cache → Redirect → Analytics`
+
+The design separates the latency-sensitive redirect path from secondary analytics work while considering expired links, cache misses, and storage failures.
+
+<div align="center">
+
+<a href="YOUR_URL_SHORTENER_REPO_URL">
+<img src="https://img.shields.io/badge/INSPECT_SOURCE-F0ABFC?style=for-the-badge&logo=github&logoColor=070B17" alt="Inspect URL shortener source"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04` — ENGINEERING PRINCIPLES
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / CORRECTNESS
+
+Establish invariants, define contracts, and understand edge cases before optimizing.
+
+### 02 / RESILIENCE
+
+Treat retries, timeouts, partial failures, and recovery as explicit design concerns.
+
+### 03 / CONCURRENCY
+
+Reason about shared state, atomic operations, race conditions, and duplicate execution.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / PERFORMANCE
+
+Measure representative workloads and use evidence to guide optimization.
+
+### 05 / MAINTAINABILITY
+
+Prefer clear abstractions, explicit dependencies, and separation of responsibilities.
+
+### 06 / OBSERVABILITY
+
+Use structured logging, useful error context, and metrics to make failures diagnosable.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05` — GITHUB TELEMETRY
+
+*Live profile statistics, subject to third-party service availability.*
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=070B17&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kollimarla&layout=compact&hide_border=true&bg_color=070B17&title_color=F0ABFC&text_color=C9D1D9" height="170" alt="GitHub language statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=sanjay-kollimarla&hide_border=true&background=070B17&ring=67E8F9&fire=F0ABFC&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=A78BFA" width="85%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `06 / CONTRIBUTION GRAPH`
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjay-kollimarla/sanjay-kollimarla/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+## `06` — CONTRIBUTION ACTIVITY
+
+<img src="https://raw.githubusercontent.com/sanjay-kollimarla/sanjay-kollimarla/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<sub>The contribution animation appears after the GitHub Actions workflow generates and publishes the SVG.</sub>
 
 </div>
 
 ---
 
-## `07 / WHAT I VALUE IN SOFTWARE`
+<div align="center">
+
+## `07` — ENGINEERING MINDSET
+
+</div>
 
 ```text
-Readable code       > Clever code without clarity
+Readable code        > Unnecessary cleverness
 Measured performance > Assumptions about speed
-Explicit contracts  > Hidden dependencies
-Reliable recovery   > Happy-path-only behavior
-Useful abstractions > Unnecessary complexity
+Explicit contracts   > Hidden dependencies
+Reliable recovery    > Happy-path-only design
+Useful abstractions  > Accidental complexity
 ```
 
-I'm interested in engineering teams that value strong technical fundamentals, thoughtful system design, ownership, code quality, and continuous improvement.
+I'm interested in backend engineering, distributed systems, system design, and collaborating with engineers who value technical depth, ownership, and continuous improvement.
 
 ---
 
-## `08 / CONNECT`
-
 <div align="center">
 
-### Let's build systems that scale — and understand why they work.
+## LET'S CONNECT
+
+### Building reliable systems starts with understanding the hard problems.
 
 <a href="https://sanjay-kollimarla.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="https://github.com/sanjay-kollimarla">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
+<a href="https://github.com/sanjay-kollimarla?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:164E63,50:102A43,100:080D1A" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:701A75,50:312E81,100:070B17" width="100%" alt="Futuristic gradient footer"/>
 
-<sub>Designed with an engineering mindset. Built to keep evolving.</sub>
+<sub>Designed around engineering. Built to evolve.</sub>
 
 </div>
