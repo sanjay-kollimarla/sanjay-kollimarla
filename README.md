@@ -6,7 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080D1A,50:102A43,100:164E63&text=SANJAY%20KOLLIMARLA&fontSize=38&fontColor=67E8F9&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20DISTRIBUTED%20SYSTEMS&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Sanjay Kollimarla — Backend Software Engineer"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:164E63,100:7C3AED&text=SANJAY%20KOLLIMARLA&fontSize=38&fontColor=67E8F9&fontAlignY=40&animation=fadeIn" width="100%" alt="Sanjay Kollimarla"/>
+</p>
+
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Designing+Reliable+Backend+Systems;Engineering+Distributed+Processing+Pipelines;Node.js+%7C+TypeScript+%7C+Redis+%7C+MongoDB;Turning+Complex+Problems+Into+Maintainable+Systems" alt="Animated engineering tagline"/>
