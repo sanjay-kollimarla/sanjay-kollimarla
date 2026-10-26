@@ -2,12 +2,12 @@
 
 <img src="assets/hero.svg" width="100%" alt="Sanjay Kollimarla — Backend Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Designing+multi-tenant+SaaS+backends+at+NexusIQ;Building+distributed+queues%2C+caches+%26+rate+limiters;Node.js+%7C+TypeScript+%7C+Redis+%7C+MongoDB+%7C+AWS;Engineering+beyond+the+happy+path" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Designing+multi-tenant+SaaS+backends;Building+distributed+queues%2C+caches+%26+rate+limiters;Node.js+%7C+TypeScript+%7C+Redis+%7C+MongoDB+%7C+AWS;Engineering+beyond+the+happy+path" alt="Animated tagline"/>
 
 <br/>
 
 <a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/LINKEDIN-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/LINKEDIN-238636?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTguNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzIzODYzNiI%2BaW48L3RleHQ%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/EMAIL-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-I'm **Sanjay Kollimarla**, a Software Engineer with **3+ years** of experience building scalable backend systems with **Node.js, TypeScript and JavaScript**. At **NexusIQ Solutions** I design multi-tenant SaaS backends, asynchronous processing pipelines and real-time services, and I own features from architecture through deployment, production support and performance tuning.
+I'm **Sanjay Kollimarla**, a Software Engineer with **3+ years** of experience building scalable backend systems with **Node.js, TypeScript and JavaScript**. I design multi-tenant SaaS backends, asynchronous processing pipelines and real-time services, and I own features from architecture through deployment, production support and performance tuning.
 
 I'm drawn to what happens *beyond* a successful API response: how concurrent operations stay correct, how queues recover from failure, how caching affects consistency, and how a system behaves under load.
 
@@ -70,34 +70,31 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 </div>
 
-<div align="center"><img src="assets/h03.svg" width="100%" alt="03 Experience"/></div>
-
-<div align="center"><img src="assets/experience.svg" width="100%" alt="Work experience timeline: NexusIQ Solutions, Upgrad Insofe, Verzeo"/></div>
-
-<div align="center"><img src="assets/h04.svg" width="100%" alt="04 Featured projects"/></div>
+<div align="center"><img src="assets/h03.svg" width="100%" alt="03 Featured projects"/></div>
 
 <div align="center">
 
-<a href="https://github.com/sanjay-kollimarla/email-queue-system"><img src="assets/project-email.svg" width="100%" alt="Production-grade Email Queue Platform"/></a>
+<img src="assets/project-email.svg" width="100%" alt="Production-grade Email Queue Platform"/>
 
-<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="assets/project-ratelimiter.svg" width="100%" alt="Distributed Rate Limiting Service"/></a>
+<a href="https://github.com/sanjay-kollimarla/email-queue-system"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-238636?style=for-the-badge&logo=github&logoColor=white" alt="VIEW_SOURCE_CODE"/></a>
 
-<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="assets/project-tinyurl.svg" width="100%" alt="TinyURL distributed URL shortening service"/></a>
+<img src="assets/project-ratelimiter.svg" width="100%" alt="Distributed Rate Limiting Service"/>
 
-<a href="https://github.com/sanjay-kollimarla/email-queue-system"><img src="https://img.shields.io/badge/EMAIL_QUEUE_SOURCE-3FB950?style=for-the-badge&logo=github&logoColor=010409" alt="Email queue source"/></a>
-<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/ALL_CASE_STUDIES_ON_PORTFOLIO-3FB950?style=for-the-badge&logo=vercel&logoColor=010409" alt="Case studies on portfolio"/></a>
+<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ON_GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" alt="VIEW_ON_GITHUB"/></a>
+
+<img src="assets/project-tinyurl.svg" width="100%" alt="TinyURL distributed URL shortening service"/>
+
+<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ON_GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" alt="VIEW_ON_GITHUB"/></a>
+
+<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/ALL_CASE_STUDIES_ON_PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=010409" alt="Case studies on portfolio"/></a>
 
 </div>
 
-<div align="center"><img src="assets/h05.svg" width="100%" alt="05 Engineering principles"/></div>
+<div align="center"><img src="assets/h04.svg" width="100%" alt="04 Engineering principles"/></div>
 
 <div align="center"><img src="assets/principles.svg" width="100%" alt="Six engineering principles"/></div>
 
-<div align="center"><img src="assets/h06.svg" width="100%" alt="06 Education and certifications"/></div>
-
-<div align="center"><img src="assets/education.svg" width="100%" alt="B.Tech CSE, Geethanjali College, 7.8 CGPA, plus certifications"/></div>
-
-<div align="center"><img src="assets/h07.svg" width="100%" alt="07 GitHub telemetry"/></div>
+<div align="center"><img src="assets/h05.svg" width="100%" alt="05 GitHub telemetry"/></div>
 
 <div align="center">
 
@@ -110,7 +107,7 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 </div>
 
-<div align="center"><img src="assets/h08.svg" width="100%" alt="08 Let's connect"/></div>
+<div align="center"><img src="assets/h06.svg" width="100%" alt="06 Let's connect"/></div>
 
 <div align="center">
 
@@ -119,7 +116,7 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 Open to conversations about **backend engineering, distributed systems and system design**.
 
 <a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-238636?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTguNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzIzODYzNiI%2BaW48L3RleHQ%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="assets/footer.svg" width="100%" alt="Animated wave footer"/>

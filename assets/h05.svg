@@ -25,6 +25,6 @@
 <g filter="url(#blur)" opacity=".15"><circle r="60" fill="#196c2e" cx="120" cy="55"><animate attributeName="cx" values="80;400;80" dur="8s" repeatCount="indefinite"/></circle><circle r="70" fill="#196c2e" cx="800" cy="55"><animate attributeName="cx" values="900;560;900" dur="9s" repeatCount="indefinite"/></circle></g>
 <rect x="14" y="14" width="972" height="82" rx="20" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2" filter="url(#shadow)" />
 <text x="50" y="68" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="30" font-weight="800" fill="#7dd3fc" opacity=".95">05</text>
-<text x="112" y="68" font-size="32" font-weight="800" letter-spacing="4" fill="url(#txt)">ENGINEERING PRINCIPLES</text>
-<rect x="112" y="78" width="120" height="3" rx="2" fill="url(#bar)"><animate attributeName="width" values="30;480;30" dur="4s" repeatCount="indefinite"/></rect>
+<text x="112" y="68" font-size="32" font-weight="800" letter-spacing="4" fill="url(#txt)">GITHUB TELEMETRY</text>
+<rect x="112" y="78" width="120" height="3" rx="2" fill="url(#bar)"><animate attributeName="width" values="30;360;30" dur="4s" repeatCount="indefinite"/></rect>
 <g fill="#fff"><circle cx="950" cy="55" r="4" fill="#3fb950"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle><circle cx="925" cy="55" r="3" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".3s" repeatCount="indefinite"/></circle><circle cx="903" cy="55" r="2.5" fill="#7dd3fc"><animate attributeName="opacity" values=".2;1;.2" dur="2s" begin=".6s" repeatCount="indefinite"/></circle></g></svg>
