@@ -6,16 +6,16 @@
 
 <br/>
 
-<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/LINKEDIN-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/EMAIL-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanjay-kollimarla&label=PROFILE+VIEWS&color=4f46e5&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/BASED_IN-HYDERABAD%2C_INDIA-4F46E5?style=for-the-badge" alt="Hyderabad, India"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-4F46E5?style=for-the-badge" alt="3+ years"/>
+<img src="https://komarev.com/ghpvc/?username=sanjay-kollimarla&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/BASED_IN-HYDERABAD%2C_INDIA-238636?style=for-the-badge" alt="Hyderabad, India"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-238636?style=for-the-badge" alt="3+ years"/>
 
 </div>
 
@@ -84,8 +84,8 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 <a href="https://github.com/sanjay-kollimarla?tab=repositories"><img src="assets/project-tinyurl.svg" width="100%" alt="TinyURL distributed URL shortening service"/></a>
 
-<a href="https://github.com/sanjay-kollimarla/email-queue-system"><img src="https://img.shields.io/badge/EMAIL_QUEUE_SOURCE-818CF8?style=for-the-badge&logo=github&logoColor=070B17" alt="Email queue source"/></a>
-<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/ALL_CASE_STUDIES_ON_PORTFOLIO-818CF8?style=for-the-badge&logo=vercel&logoColor=070B17" alt="Case studies on portfolio"/></a>
+<a href="https://github.com/sanjay-kollimarla/email-queue-system"><img src="https://img.shields.io/badge/EMAIL_QUEUE_SOURCE-3FB950?style=for-the-badge&logo=github&logoColor=010409" alt="Email queue source"/></a>
+<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/ALL_CASE_STUDIES_ON_PORTFOLIO-3FB950?style=for-the-badge&logo=vercel&logoColor=010409" alt="Case studies on portfolio"/></a>
 
 </div>
 
@@ -101,10 +101,10 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=0A0B14&title_color=818CF8&text_color=C9D1D9&icon_color=818CF8&rank_icon=github&include_all_commits=true&border_radius=20" height="175" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kollimarla&layout=compact&hide_border=true&bg_color=0A0B14&title_color=818CF8&text_color=C9D1D9&border_radius=20" height="175" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjay-kollimarla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&rank_icon=github&include_all_commits=true&border_radius=20" height="175" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kollimarla&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_radius=20" height="175" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=sanjay-kollimarla&hide_border=true&background=0A0B14&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=818CF8&border_radius=20" width="85%" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=sanjay-kollimarla&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=94A3B8&currStreakNum=FFFFFF&sideNums=3FB950&border_radius=20" width="85%" alt="Contribution streak"/>
 
 <img src="https://raw.githubusercontent.com/sanjay-kollimarla/sanjay-kollimarla/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
@@ -118,9 +118,9 @@ I'm drawn to what happens *beyond* a successful API response: how concurrent ope
 
 Open to conversations about **backend engineering, distributed systems and system design**.
 
-<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://sanjay-kollimarla.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/kollimarla-sai-sanjay"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sanju.koli2500@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="assets/footer.svg" width="100%" alt="Animated wave footer"/>
 
