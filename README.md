@@ -17,7 +17,7 @@ My engineering interests include distributed systems, system design, database pe
 | Area | Technologies |
 |---|---|
 | Languages | JavaScript, TypeScript, Java, SQL, Python |
-| Backend | Node.js, Express.js, REST APIs, WebSockets, SSE |
+| Backend | Node.js, Bun.js, Hono, Express.js, REST APIs, WebSockets, SSE |
 | Databases | MongoDB, MySQL, Redis |
 | Distributed Systems | BullMQ, Job Queues, Rate Limiting, Idempotency, Caching |
 | Cloud & Infrastructure | AWS, Docker, Kubernetes, CI/CD |
